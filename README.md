@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m @VishMur
 - 👨🏾‍💻 I am proficient in Python and R
 - 🏫 I'm a senior at Hillcrest High School. I also take computer science, math, philosophy, and psychology classes at the University of Utah.
-- 🤔 I’m interested in both Natural Language and Image Processing
+- 🤔 I’m interested in both NLP (particuarly Sentiment Analysis) and Image Processing
 
 ![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishmur&theme=gotham&show_icons=true)
 
